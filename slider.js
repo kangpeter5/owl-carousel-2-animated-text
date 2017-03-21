@@ -14,11 +14,11 @@ $('.owl-carousel').owlCarousel({
     responsive:{
         0:{
             items:1,
-            stagePadding: 60
+            stagePadding: 0
         },
         600:{
             items:1,
-            stagePadding: 100
+            stagePadding: 0
         },
         1000:{
             items:1,
